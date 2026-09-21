@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/08acfqt_j-gme.css","style"]
+:HL["/_next/static/chunks/03m7l6k6220jq.css","style"]
+:HL["/_next/static/chunks/0zfdl15qmdi1v.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=DM+Mono:wght@400;500&family=Figtree:wght@400;500;600;700&display=swap&subset=latin-ext","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"city","param":{"type":"d","key":"szczecin","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"category","param":{"type":"d","key":"film","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"event","param":{"type":"d","key":"ojczyzna-d15e4522","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Z22n3Qx1s-UO-ZRvzsWcV"}
