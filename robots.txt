@@ -1,0 +1,24 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+User-Agent: CCBot
+User-Agent: anthropic-ai
+User-Agent: ClaudeBot
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: Bytespider
+User-Agent: Amazonbot
+User-Agent: meta-externalagent
+User-Agent: Diffbot
+User-Agent: Omgilibot
+User-Agent: ImagesiftBot
+User-Agent: cohere-ai
+User-Agent: Timpibot
+User-Agent: ChatGPT-User
+User-Agent: OAI-SearchBot
+User-Agent: Claude-Web
+User-Agent: PerplexityBot
+Disallow: /
+
+Sitemap: https://idznamiasto.pl/sitemap.xml
